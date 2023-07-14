@@ -1,0 +1,112 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid fbf2e152-4dd6-48fd-bbd2-0fabd7a173fd)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 95.25 138.43) (size 31.75 8.89) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 054f6b74-88b3-43de-9dfd-a167a9a71e86)
+    (property "Sheetname" "INPUTS" (at 95.25 137.7184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "INPUTS.kicad_sch" (at 95.25 147.9046 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+    (instances
+      (project "proyeto"
+        (path "/b66868b8-c283-4ef1-82e8-af9f092560ee/a72b2232-0de7-4df7-b592-ee0f1cdb2f92" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 158.75 43.18) (size 29.21 13.97) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 80608ede-77c7-4a61-892f-36dbc3009587)
+    (property "Sheetname" "RS-485-LCD" (at 158.75 42.4684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "RS-485-LCD.kicad_sch" (at 158.75 57.7346 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+    (instances
+      (project "proyeto"
+        (path "/b66868b8-c283-4ef1-82e8-af9f092560ee/a72b2232-0de7-4df7-b592-ee0f1cdb2f92" (page "7"))
+      )
+    )
+  )
+
+  (sheet (at 30.48 135.89) (size 29.21 33.02) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 8f3560d8-3953-414c-92c5-d637211a2832)
+    (property "Sheetname" "RS-485-EXTERNA" (at 30.48 135.1784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "RS-485-EXTERNA.kicad_sch" (at 30.48 169.4946 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+    (instances
+      (project "proyeto"
+        (path "/b66868b8-c283-4ef1-82e8-af9f092560ee/a72b2232-0de7-4df7-b592-ee0f1cdb2f92" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 39.37 50.8) (size 36.83 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid b3a931b2-a60c-4846-a833-11de45869d7b)
+    (property "Sheetname" "POWER_SUPPLY" (at 39.37 50.0884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "POWER_SUPPLY.kicad_sch" (at 39.37 64.0846 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+    (instances
+      (project "proyeto"
+        (path "/b66868b8-c283-4ef1-82e8-af9f092560ee/a72b2232-0de7-4df7-b592-ee0f1cdb2f92" (page "6"))
+      )
+    )
+  )
+
+  (sheet (at 109.22 83.82) (size 69.85 15.24) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid d24c5959-2bdf-4ab6-b5c0-23df217a7942)
+    (property "Sheetname" "CONTROL" (at 109.22 83.1084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "CONTROL.kicad_sch" (at 109.22 99.6446 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+    (instances
+      (project "proyeto"
+        (path "/b66868b8-c283-4ef1-82e8-af9f092560ee/a72b2232-0de7-4df7-b592-ee0f1cdb2f92" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 218.44 46.99) (size 34.29 13.97) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid f3562a09-3121-448b-b7e2-daabfc7993ff)
+    (property "Sheetname" "RELAY_GROUP" (at 218.44 46.2784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "RELAY_GROUP.kicad_sch" (at 218.44 61.5446 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+    (instances
+      (project "proyeto"
+        (path "/b66868b8-c283-4ef1-82e8-af9f092560ee/a72b2232-0de7-4df7-b592-ee0f1cdb2f92" (page "8"))
+      )
+    )
+  )
+)
